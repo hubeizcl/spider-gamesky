@@ -1,13 +1,1 @@
-# Project exclude paths
-/target/
-.gitignore
-.idea/.gitignore
-.idea/codeStyles/
-.idea/compiler.xml
-.idea/jarRepositories.xml
-.idea/misc.xml
-.idea/sbt.xml
-.idea/uiDesigner.xml
-pom.xml
-spider-gamesky.iml
-src/
+# Created by .ignore support plugin (hsz.mobi)
